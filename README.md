@@ -1,5 +1,7 @@
-[[![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=NewCodes%20Github&textBg=false&section=header&reversal=true&fontColor=r)
-](https://capsule-render.vercel.app/api?type=rect&height=250&color=000000&text=NewCodes%20Github&textBg=false&fontColor=FFFFFF&fontAlign=50&fontAlignY=53)](https://capsule-render.vercel.app/api?type=rounded&height=250&color=089DFE&text=NewCodes%20Github&textBg=false&fontColor=000000&fontAlign=50&fontAlignY=53&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=250&color=000000&text=NewCodes%20Github&textBg=false&fontColor=ffffff&fontAlign=50&fontAlignY=53&reversal=false)
+
+<center>안녕하세요!</center>
+
 
 [![NewCodes GitHub stats](https://github-readme-stats.vercel.app/api?username=NewCodes7)](https://github.com/NewCodes7/github-readme-stats)
 
