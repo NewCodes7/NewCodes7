@@ -2,6 +2,11 @@
 
 <center>안녕하세요!</center>
 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+
+
 
 [![NewCodes GitHub stats](https://github-readme-stats.vercel.app/api?username=NewCodes7)](https://github.com/NewCodes7/github-readme-stats)
 
