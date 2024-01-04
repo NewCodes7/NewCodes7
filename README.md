@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 큰 배너
+- 자기소개
+- 스택
+- 마지막 문구
+
 <!--
 **NewCodes7/NewCodes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
