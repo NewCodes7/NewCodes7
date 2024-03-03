@@ -2,8 +2,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=250&color=000000&text=NewCodes%20Github&textBg=false&fontColor=ffffff&fontAlign=50&fontAlignY=53&reversal=false)
 
-안녕하세요! 
-알고리즘에 관심이 많은 백엔드 취준생입니다.
+안녕하세요! NewCodes입니다!
+피드백과 회고에 미쳐있는 프로그래머입니다.
 <br><br>
 
 
