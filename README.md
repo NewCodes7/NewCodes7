@@ -1,10 +1,24 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=250&color=000000&text=NewCodes%20Github&textBg=false&fontColor=ffffff&fontAlign=50&fontAlignY=53&reversal=false)
+### 🙋🏻‍♂️ 가치있는 것에 몰입할 줄 아는 백엔드 개발자 NewCodes입니다. <br>
 
-안녕하세요👋 NewCodes입니다!<br><br>
-피드백과 회고에 미쳐있습니다.<br>
-대단한 프로그래머는 아니지만, 포텐셜 하나는 기가 막힙니다.
+---
+
+<aside>
+👨‍👨‍👦‍👦 사익보다는 <b>공익적인 가치</b>를 우선시합니다.<br><br>
+
+</aside>
+
+<aside>
+🏃🏻‍♀️ 성공과 실패, 과정과 결과를 매번 <b>회고하고 피드백</b>합니다.<br><br>
+
+</aside>
+
+<aside>
+🤸🏻 <b>‘실패해도 성공한다.’</b>라는 확신을 가지고, <b>새로운 것에 도전</b>합니다.<br><br>
+
+</aside>
 <br><br>
 
 
