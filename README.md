@@ -1,6 +1,5 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=rounded&height=250&color=000000&text=NewCodes%20Github&textBg=false&fontColor=ffffff&fontAlign=50&fontAlignY=53&reversal=false)
 ## 안녕하세요. 도전하는 개발자 NewCodes입니다.
 <br>
 
