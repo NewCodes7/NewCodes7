@@ -14,7 +14,7 @@
 
 ### 기술 스택
 
-- Back-end: JAVA, Spring, Restful API
+- Back-end: JAVA, Spring, Node.js, Restful API
 - DataBase: MySQL
 - Front-end: HTML, CSS, Javascript
 - etc: Git/Github
