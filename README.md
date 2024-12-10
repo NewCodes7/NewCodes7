@@ -14,7 +14,8 @@
 
 ### 기술 스택
 
-- Back-end: JAVA, Spring, Node.js, Nest.js, Restful API
-- DataBase: MySQL, Redis
-- Front-end: HTML, CSS, Javascript
-- etc: Git/Github
+- 프로그래밍 언어: Java, JavaScript
+- 백엔드 프레임워크: Spring, Express.js, Nest.js
+- 데이터베이스: MySQL, Redis
+- 개발 도구 및 인프라: Git, Github, NginX, Ncloud
+- 프론트엔드: HTML, CSS, JavaScript
