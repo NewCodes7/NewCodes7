@@ -25,9 +25,9 @@
 
 ### 📜 최근에 작성한 글
 <!-- BLOG-POST-LIST:START -->
+- [2025년 2분기 회고](https://newcodes.tistory.com/entry/2025%EB%85%84-2%EB%B6%84%EA%B8%B0-%ED%9A%8C%EA%B3%A0)
 - [트랜잭션 제대로 알고 계신가요?](https://newcodes.tistory.com/entry/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%95%8C%EA%B3%A0-%EA%B3%84%EC%8B%A0%EA%B0%80%EC%9A%94)
 - [[Java] synchronized로 동시성 이슈 해결하는 원리](https://newcodes.tistory.com/entry/Java-synchronized%EB%A1%9C-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EC%9B%90%EB%A6%AC)
 - [AI 시대에서 개발자로서 살아남기 위한 고찰 &lpar;feat. 문제해결력&rpar;](https://newcodes.tistory.com/entry/AI-%EC%8B%9C%EB%8C%80%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C-%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0-%EC%9C%84%ED%95%9C-%EA%B3%A0%EC%B0%B0-feat-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%EB%A0%A5)
 - [동기 비동기 블로킹 논블로킹, 이 글 하나로 끝내자!](https://newcodes.tistory.com/entry/%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%B8%94%EB%A1%9C%ED%82%B9-%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9-%EC%9D%B4-%EA%B8%80-%ED%95%98%EB%82%98%EB%A1%9C-%EB%81%9D%EB%82%B4%EC%9E%90)
-- [Node.js에서 readFileSync를 쓰면 안 되는 이유 &lpar;feat. Event Loop&rpar;](https://newcodes.tistory.com/entry/Nodejs%EC%97%90%EC%84%9C-readFileSync%EB%A5%BC-%EC%93%B0%EB%A9%B4-%EC%95%88-%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-feat-Event-Loop)
 <!-- BLOG-POST-LIST:END -->
