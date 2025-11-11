@@ -25,9 +25,9 @@
 
 ### 📜 최근에 작성한 글
 <!-- BLOG-POST-LIST:START -->
+- [DAN25 네이버 컨퍼런스 DAY2 솔직 후기](https://newcodes.tistory.com/entry/DAN25-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-DAY2-%EC%86%94%EC%A7%81-%ED%9B%84%EA%B8%B0)
 - [Java로 알아보는 TCP Socket Programming](https://newcodes.tistory.com/entry/Java%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-TCP-Socket-Programming)
 - [Index는 왜 빠를까?](https://newcodes.tistory.com/entry/Index%EB%8A%94-%EC%99%9C-%EB%B9%A0%EB%A5%BC%EA%B9%8C)
 - [2025년 2분기 회고](https://newcodes.tistory.com/entry/2025%EB%85%84-2%EB%B6%84%EA%B8%B0-%ED%9A%8C%EA%B3%A0)
 - [트랜잭션 제대로 알고 계신가요?](https://newcodes.tistory.com/entry/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%95%8C%EA%B3%A0-%EA%B3%84%EC%8B%A0%EA%B0%80%EC%9A%94)
-- [[Java] synchronized로 동시성 이슈 해결하는 원리](https://newcodes.tistory.com/entry/Java-synchronized%EB%A1%9C-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EC%9B%90%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
