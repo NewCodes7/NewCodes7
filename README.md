@@ -9,6 +9,8 @@
 3. [NginX로 TTFB 95% 개선](https://velog.io/@newcodes7/NginX%EB%A1%9C-TTFB-95-%EA%B0%9C%EC%84%A0)
 4. [CDN 도입했는데 고작 성능 4% 향상?](https://velog.io/@newcodes7/CDN-%EB%8F%84%EC%9E%85%ED%96%88%EB%8A%94%EB%8D%B0-4%EB%B0%96%EC%97%90-%ED%96%A5%EC%83%81%EC%9D%B4-%EC%95%88-%EB%90%9C%EB%8B%A4%EA%B3%A0)
 
+<br>
+
 ### 🕹️ '실시간 퀴즈 게임 웹' 성능 최적화 경험기 
 
 1. [Artillery를 통한 Socket.io 게임 서버 부하테스트 경험기](https://newcodes.tistory.com/entry/Nodejs-Socketio-%EA%B2%8C%EC%9E%84-%EC%84%9C%EB%B2%84-%EB%B6%80%ED%95%98%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B2%BD%ED%97%98%EA%B8%B0%EC%99%80-TIP-feat-Artillery)
