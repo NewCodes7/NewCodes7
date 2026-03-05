@@ -4,10 +4,11 @@
 
 ### 📃 NewCodes, 기술 블로그 모음 서비스 
 
-1. [11만 개 데이터에서 100ms 내에 응답하기](https://velog.io/@newcodes7/11%EB%A7%8C%EA%B0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90%EC%84%9C-100ms-%EB%82%B4%EC%97%90-%EC%9D%91%EB%8B%B5%ED%95%98%EA%B8%B0)
-2. [오잉 캐시가 왜 안 사라지지?](https://velog.io/@newcodes7/%EC%98%A4%EC%9E%89-%EC%99%9C-%EC%BA%90%EC%8B%9C%EA%B0%80-%EC%95%88-%EC%82%AC%EB%9D%BC%EC%A7%80%EC%A7%80)
-3. [NginX로 TTFB 95% 개선](https://velog.io/@newcodes7/NginX%EB%A1%9C-TTFB-95-%EA%B0%9C%EC%84%A0)
-4. [CDN 도입했는데 고작 성능 4% 향상?](https://velog.io/@newcodes7/CDN-%EB%8F%84%EC%9E%85%ED%96%88%EB%8A%94%EB%8D%B0-4%EB%B0%96%EC%97%90-%ED%96%A5%EC%83%81%EC%9D%B4-%EC%95%88-%EB%90%9C%EB%8B%A4%EA%B3%A0)
+1. [사용자의 검색어를 이해해보자!](https://velog.io/@newcodes7/%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EA%B2%80%EC%83%89%EC%96%B4%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%B4%EB%B3%B4%EC%9E%90)
+2. [11만 개 데이터에서 100ms 내에 응답하기](https://velog.io/@newcodes7/11%EB%A7%8C%EA%B0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90%EC%84%9C-100ms-%EB%82%B4%EC%97%90-%EC%9D%91%EB%8B%B5%ED%95%98%EA%B8%B0)
+3. [오잉 캐시가 왜 안 사라지지?](https://velog.io/@newcodes7/%EC%98%A4%EC%9E%89-%EC%99%9C-%EC%BA%90%EC%8B%9C%EA%B0%80-%EC%95%88-%EC%82%AC%EB%9D%BC%EC%A7%80%EC%A7%80)
+4. [NginX로 TTFB 95% 개선](https://velog.io/@newcodes7/NginX%EB%A1%9C-TTFB-95-%EA%B0%9C%EC%84%A0)
+5. [CDN 도입했는데 고작 성능 4% 향상?](https://velog.io/@newcodes7/CDN-%EB%8F%84%EC%9E%85%ED%96%88%EB%8A%94%EB%8D%B0-4%EB%B0%96%EC%97%90-%ED%96%A5%EC%83%81%EC%9D%B4-%EC%95%88-%EB%90%9C%EB%8B%A4%EA%B3%A0)
 
 <br>
 
