@@ -20,12 +20,6 @@
 
 <br>
 
-### 일상의 궁금증을 기술적으로 풀어보기
-1. [왜 카카오맵은 우리 집을 우회해서 가는 길로 추천할까?](https://newcodes.tistory.com/entry/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%A7%B5%EC%9D%B4-%EC%B5%9C%EC%A0%81-%EA%B2%BD%EB%A1%9C%EB%A5%BC-%EA%B2%B0%EC%A0%95%ED%95%98%EB%8A%94-%EB%8D%B0%EA%B9%8C%EC%A7%80)
-2. [현실에서 쓰이는 길찾기 알고리즘 - Contraction Hierarchies](https://youtu.be/ReXlLuPMOBs?si=Gzvb6XgFKEAtDoNb)
-
-<br>
-
 ### 개발자로서의 태도
 
 1. [글쓰기, 개발자가 꼭 배워야 할 기술](https://newcodes.tistory.com/entry/%EA%B8%80%EC%93%B0%EA%B8%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%BC%AD-%EB%B0%B0%EC%9B%8C%EC%95%BC-%ED%95%A0-%EA%B8%B0%EC%88%A0-%EC%8B%A4%EC%A0%84-TIP)
