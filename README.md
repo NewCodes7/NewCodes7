@@ -29,9 +29,9 @@
 
 ### 📜 최근에 작성한 글
 <!-- BLOG-POST-LIST:START -->
+- [gemini notebook - shorts 생성 기능 사용 후기](https://newcodes.tistory.com/entry/gemini-notebook-shorts-%EC%83%9D%EC%84%B1-%EA%B8%B0%EB%8A%A5-%EC%82%AC%EC%9A%A9-%ED%9B%84%EA%B8%B0)
 - [Java의 Virtual Thread 1편: 등장 배경](https://newcodes.tistory.com/entry/Java%EC%9D%98-Virtual-Thread-1%ED%8E%B8-%EB%93%B1%EC%9E%A5-%EB%B0%B0%EA%B2%BD)
 - [군대 사지방에서 보낸 설날 회고](https://newcodes.tistory.com/entry/%EA%B5%B0%EB%8C%80-%EC%82%AC%EC%A7%80%EB%B0%A9%EC%97%90%EC%84%9C-%EB%B3%B4%EB%82%B8-%EC%84%A4%EB%82%A0-%ED%9A%8C%EA%B3%A0)
 - [DAN25 네이버 컨퍼런스 DAY2 솔직 후기](https://newcodes.tistory.com/entry/DAN25-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-DAY2-%EC%86%94%EC%A7%81-%ED%9B%84%EA%B8%B0)
 - [Java로 알아보는 TCP Socket Programming](https://newcodes.tistory.com/entry/Java%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-TCP-Socket-Programming)
-- [Index는 왜 빠를까?](https://newcodes.tistory.com/entry/Index%EB%8A%94-%EC%99%9C-%EB%B9%A0%EB%A5%BC%EA%B9%8C)
 <!-- BLOG-POST-LIST:END -->
