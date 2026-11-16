@@ -1,7 +1,7 @@
 ### 프로젝트
 
 - **PromptLens** — AI 코딩 세션의 프롬프트를 PR에 자동으로 올리는 CLI (개인, 2026.11) · [GitHub](https://github.com/NewCodes7/promptlens)
-- **중국어 버스 길찾기** — 제주 환경 해커톤 최우수상 (2026.11) · [GitHub](https://github.com/NewCodes7/jeju-environment-hackathon-9saenghwalgwan)
+- **중국어 버스 길찾기** — 제주 환경 해커톤 최우수상 ([9생활관](https://github.com/9saenghwalgwan) 2인 팀, 2026.11) · [GitHub](https://github.com/9saenghwalgwan/jeju-greenbus)
 - **NewCodes** — 기술 블로그 큐레이팅 서비스 (개인, 2025.05 ~ 운영 중) · [GitHub](https://github.com/NewCodes7/small-town)
 - **QuizGround** — 실시간 퀴즈 게임 (네이버 부스트캠프 5명 팀 프로젝트, 팀 리더·BE, 2024.11 ~ 2024.12) · [GitHub](https://github.com/NewCodes7/web10-QuizGround)
 
